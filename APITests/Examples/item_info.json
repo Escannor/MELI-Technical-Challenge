@@ -1,0 +1,535 @@
+{
+    "id": "MLA1465318508",
+    "site_id": "MLA",
+    "title": "20 Pilas Aaa Energizer Max E92 Alcalina",
+    "seller_id": 656317421,
+    "category_id": "MLA6384",
+    "official_store_id": null,
+    "price": 13214.88,
+    "base_price": 13214.88,
+    "original_price": 17388,
+    "currency_id": "ARS",
+    "initial_quantity": 9654,
+    "sale_terms": [
+        {
+            "id": "WARRANTY_TYPE",
+            "name": "Tipo de garantía",
+            "value_id": "6150835",
+            "value_name": "Sin garantía",
+            "value_struct": null,
+            "values": [
+                {
+                    "id": "6150835",
+                    "name": "Sin garantía",
+                    "struct": null
+                }
+            ],
+            "value_type": "list"
+        },
+        {
+            "id": "INVOICE",
+            "name": "Facturación",
+            "value_id": "6891885",
+            "value_name": "Factura A",
+            "value_struct": null,
+            "values": [
+                {
+                    "id": "6891885",
+                    "name": "Factura A",
+                    "struct": null
+                }
+            ],
+            "value_type": "list"
+        },
+        {
+            "id": "PURCHASE_MAX_QUANTITY",
+            "name": "Cantidad máxima de compra",
+            "value_id": null,
+            "value_name": "15",
+            "value_struct": null,
+            "values": [
+                {
+                    "id": null,
+                    "name": "15",
+                    "struct": null
+                }
+            ],
+            "value_type": "number"
+        }
+    ],
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-1465318508-20-pilas-aaa-energizer-max-e92-alcalina-_JM",
+    "thumbnail_id": "976056-MLA74192071235_012024",
+    "thumbnail": "http://http2.mlstatic.com/D_976056-MLA74192071235_012024-I.jpg",
+    "pictures": [
+        {
+            "id": "976056-MLA74192071235_012024",
+            "url": "http://http2.mlstatic.com/D_976056-MLA74192071235_012024-O.jpg",
+            "secure_url": "https://http2.mlstatic.com/D_976056-MLA74192071235_012024-O.jpg",
+            "size": "210x500",
+            "max_size": "300x711",
+            "quality": ""
+        },
+        {
+            "id": "615448-MLU74962233233_032024",
+            "url": "http://http2.mlstatic.com/D_615448-MLU74962233233_032024-O.jpg",
+            "secure_url": "https://http2.mlstatic.com/D_615448-MLU74962233233_032024-O.jpg",
+            "size": "114x500",
+            "max_size": "275x1198",
+            "quality": ""
+        },
+        {
+            "id": "923028-MLU73129976238_122023",
+            "url": "http://http2.mlstatic.com/D_923028-MLU73129976238_122023-O.jpg",
+            "secure_url": "https://http2.mlstatic.com/D_923028-MLU73129976238_122023-O.jpg",
+            "size": "494x500",
+            "max_size": "762x771",
+            "quality": ""
+        }
+    ],
+    "video_id": null,
+    "descriptions": [],
+    "accepts_mercadopago": true,
+    "non_mercado_pago_payment_methods": [],
+    "shipping": {
+        "mode": "me2",
+        "methods": [],
+        "tags": [
+            "self_service_in"
+        ],
+        "dimensions": null,
+        "local_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "fulfillment",
+        "store_pick_up": false
+    },
+    "international_delivery_mode": "none",
+    "seller_address": {
+        "city": {
+            "id": "TUxBQlNBTjkwNTZa",
+            "name": "San Cristóbal"
+        },
+        "state": {
+            "id": "AR-C",
+            "name": "Capital Federal"
+        },
+        "country": {
+            "id": "AR",
+            "name": "Argentina"
+        },
+        "search_location": {
+            "neighborhood": {
+                "id": "TUxBQlNBTjkwNTZa",
+                "name": "San Cristóbal"
+            },
+            "city": {
+                "id": "TUxBQ0NBUGZlZG1sYQ",
+                "name": "Capital Federal"
+            },
+            "state": {
+                "id": "TUxBUENBUGw3M2E1",
+                "name": "Capital Federal"
+            }
+        },
+        "id": 1196020030
+    },
+    "seller_contact": null,
+    "location": {},
+    "coverage_areas": [],
+    "attributes": [
+        {
+            "id": "BRAND",
+            "name": "Marca",
+            "value_id": "15375",
+            "value_name": "Energizer",
+            "values": [
+                {
+                    "id": "15375",
+                    "name": "Energizer",
+                    "struct": null
+                }
+            ],
+            "value_type": "string"
+        },
+        {
+            "id": "CELL_BATTERY_CAPACITY",
+            "name": "Capacidad de la pila",
+            "value_id": "13727960",
+            "value_name": "1200 mAh",
+            "values": [
+                {
+                    "id": "13727960",
+                    "name": "1200 mAh",
+                    "struct": {
+                        "number": 1200,
+                        "unit": "mAh"
+                    }
+                }
+            ],
+            "value_type": "number_unit"
+        },
+        {
+            "id": "CELL_BATTERY_COMPOSITION",
+            "name": "Composición",
+            "value_id": "7513284",
+            "value_name": "Alcalino",
+            "values": [
+                {
+                    "id": "7513284",
+                    "name": "Alcalino",
+                    "struct": null
+                }
+            ],
+            "value_type": "string"
+        },
+        {
+            "id": "CELL_BATTERY_SHAPE",
+            "name": "Forma",
+            "value_id": "6739196",
+            "value_name": "Cilíndrica",
+            "values": [
+                {
+                    "id": "6739196",
+                    "name": "Cilíndrica",
+                    "struct": null
+                }
+            ],
+            "value_type": "string"
+        },
+        {
+            "id": "CELL_BATTERY_SIZE",
+            "name": "Tamaño de la pila",
+            "value_id": "6073399",
+            "value_name": "AAA",
+            "values": [
+                {
+                    "id": "6073399",
+                    "name": "AAA",
+                    "struct": null
+                }
+            ],
+            "value_type": "string"
+        },
+        {
+            "id": "COLOR",
+            "name": "Color",
+            "value_id": "52053",
+            "value_name": "Plateado",
+            "values": [
+                {
+                    "id": "52053",
+                    "name": "Plateado",
+                    "struct": null
+                }
+            ],
+            "value_type": "string"
+        },
+        {
+            "id": "ENVIRONMENTAL_MANAGEMENT_PLAN_AUTHORIZATION",
+            "name": "Autorización del plan de gestión ambiental",
+            "value_id": null,
+            "value_name": "si",
+            "values": [
+                {
+                    "id": null,
+                    "name": "si",
+                    "struct": null
+                }
+            ],
+            "value_type": "string"
+        },
+        {
+            "id": "GTIN",
+            "name": "Código universal de producto",
+            "value_id": null,
+            "value_name": "8999002672068",
+            "values": [
+                {
+                    "id": null,
+                    "name": "8999002672068",
+                    "struct": null
+                }
+            ],
+            "value_type": "string"
+        },
+        {
+            "id": "IS_RECHARGEABLE",
+            "name": "Es recargable",
+            "value_id": "242084",
+            "value_name": "No",
+            "values": [
+                {
+                    "id": "242084",
+                    "name": "No",
+                    "struct": null
+                }
+            ],
+            "value_type": "boolean"
+        },
+        {
+            "id": "ITEM_CONDITION",
+            "name": "Condición del ítem",
+            "value_id": "2230284",
+            "value_name": "Nuevo",
+            "values": [
+                {
+                    "id": "2230284",
+                    "name": "Nuevo",
+                    "struct": null
+                }
+            ],
+            "value_type": "list"
+        },
+        {
+            "id": "LINE",
+            "name": "Línea",
+            "value_id": "18167",
+            "value_name": "MAX",
+            "values": [
+                {
+                    "id": "18167",
+                    "name": "MAX",
+                    "struct": null
+                }
+            ],
+            "value_type": "string"
+        },
+        {
+            "id": "MAX_LOAD_HOLDING_TIME",
+            "name": "Tiempo máximo de retención de carga",
+            "value_id": "9021367",
+            "value_name": "10 años",
+            "values": [
+                {
+                    "id": "9021367",
+                    "name": "10 años",
+                    "struct": {
+                        "number": 10,
+                        "unit": "años"
+                    }
+                }
+            ],
+            "value_type": "number_unit"
+        },
+        {
+            "id": "MODEL",
+            "name": "Modelo",
+            "value_id": "44956",
+            "value_name": "E92",
+            "values": [
+                {
+                    "id": "44956",
+                    "name": "E92",
+                    "struct": null
+                }
+            ],
+            "value_type": "string"
+        },
+        {
+            "id": "NOMINAL_VOLTAGE",
+            "name": "Voltaje nominal",
+            "value_id": "6055455",
+            "value_name": "1.5V",
+            "values": [
+                {
+                    "id": "6055455",
+                    "name": "1.5V",
+                    "struct": {
+                        "number": 1.5,
+                        "unit": "V"
+                    }
+                }
+            ],
+            "value_type": "number_unit"
+        },
+        {
+            "id": "PACKAGE_HEIGHT",
+            "name": "Altura del paquete",
+            "value_id": null,
+            "value_name": "1.2 cm",
+            "values": [
+                {
+                    "id": null,
+                    "name": "1.2 cm",
+                    "struct": {
+                        "number": 1.2,
+                        "unit": "cm"
+                    }
+                }
+            ],
+            "value_type": "number_unit"
+        },
+        {
+            "id": "PACKAGE_LENGTH",
+            "name": "Largo del paquete",
+            "value_id": null,
+            "value_name": "27.6 cm",
+            "values": [
+                {
+                    "id": null,
+                    "name": "27.6 cm",
+                    "struct": {
+                        "number": 27.6,
+                        "unit": "cm"
+                    }
+                }
+            ],
+            "value_type": "number_unit"
+        },
+        {
+            "id": "PACKAGE_WEIGHT",
+            "name": "Peso del paquete",
+            "value_id": null,
+            "value_name": "260 g",
+            "values": [
+                {
+                    "id": null,
+                    "name": "260 g",
+                    "struct": {
+                        "number": 260,
+                        "unit": "g"
+                    }
+                }
+            ],
+            "value_type": "number_unit"
+        },
+        {
+            "id": "PACKAGE_WIDTH",
+            "name": "Ancho del paquete",
+            "value_id": null,
+            "value_name": "12.4 cm",
+            "values": [
+                {
+                    "id": null,
+                    "name": "12.4 cm",
+                    "struct": {
+                        "number": 12.4,
+                        "unit": "cm"
+                    }
+                }
+            ],
+            "value_type": "number_unit"
+        },
+        {
+            "id": "PRODUCT_FEATURES",
+            "name": "Características del producto",
+            "value_id": "7435888",
+            "value_name": "Con vencimiento",
+            "values": [
+                {
+                    "id": "7435888",
+                    "name": "Con vencimiento",
+                    "struct": null
+                }
+            ],
+            "value_type": "list"
+        },
+        {
+            "id": "RECOMMENDED_USES",
+            "name": "Usos recomendados",
+            "value_id": null,
+            "value_name": "controles remotos,Linternas,Radios perifericos,Juguetes",
+            "values": [
+                {
+                    "id": "24246501",
+                    "name": "controles remotos",
+                    "struct": null
+                },
+                {
+                    "id": "19153330",
+                    "name": "Linternas",
+                    "struct": null
+                },
+                {
+                    "id": "38971041",
+                    "name": "Radios perifericos",
+                    "struct": null
+                },
+                {
+                    "id": "9063092",
+                    "name": "Juguetes",
+                    "struct": null
+                }
+            ],
+            "value_type": "string"
+        },
+        {
+            "id": "SALE_FORMAT",
+            "name": "Formato de venta",
+            "value_id": "1359392",
+            "value_name": "Pack",
+            "values": [
+                {
+                    "id": "1359392",
+                    "name": "Pack",
+                    "struct": null
+                }
+            ],
+            "value_type": "list"
+        },
+        {
+            "id": "SHIPMENT_PACKING",
+            "name": "Embalaje del envío",
+            "value_id": "7435891",
+            "value_name": "Bolsa",
+            "values": [
+                {
+                    "id": "7435891",
+                    "name": "Bolsa",
+                    "struct": null
+                }
+            ],
+            "value_type": "list"
+        },
+        {
+            "id": "UNITS_PER_PACK",
+            "name": "Unidades por pack",
+            "value_id": "235739",
+            "value_name": "20",
+            "values": [
+                {
+                    "id": "235739",
+                    "name": "20",
+                    "struct": null
+                }
+            ],
+            "value_type": "number"
+        },
+        {
+            "id": "WITH_MERCURY",
+            "name": "Con mercurio",
+            "value_id": "242084",
+            "value_name": "No",
+            "values": [
+                {
+                    "id": "242084",
+                    "name": "No",
+                    "struct": null
+                }
+            ],
+            "value_type": "boolean"
+        }
+    ],
+    "listing_source": "",
+    "variations": [],
+    "status": "active",
+    "sub_status": [],
+    "tags": [
+        "supermarket_eligible",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+    ],
+    "warranty": "Sin garantía",
+    "catalog_product_id": "MLA22288649",
+    "domain_id": "MLA-CELL_BATTERIES",
+    "parent_item_id": null,
+    "deal_ids": [],
+    "automatic_relist": false,
+    "date_created": "2023-08-03T12:33:28.000Z",
+    "last_updated": "2024-12-10T02:25:02.924Z",
+    "health": null,
+    "catalog_listing": true
+}
